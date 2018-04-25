@@ -1,0 +1,1 @@
+/Users/andrew/Documents/ComputerScience/CSPC473/ember-quickstart/tmp/funnel-input_base_path-fsLNA5Cy.tmp/-private/adapters/build-url-mixin.js

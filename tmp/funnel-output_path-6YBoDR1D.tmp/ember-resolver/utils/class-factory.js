@@ -1,0 +1,1 @@
+/Users/andrew/Documents/ComputerScience/CSPC473/ember-quickstart/tmp/funnel-input_base_path-D2a8Csxj.tmp/utils/class-factory.js

@@ -1,0 +1,1 @@
+/Users/andrew/Documents/ComputerScience/CSPC473/ember-quickstart/tmp/funnel-input_base_path-re37YVm2.tmp/initializer-factory.js
